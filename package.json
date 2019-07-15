@@ -18,5 +18,12 @@
   "devDependencies": {
     "eslint": "^6.0.1",
     "eslint-plugin-json": "^1.4.0"
-  }
+  },
+  "contributors": [
+    {
+      "name": "Robin Bron",
+      "email": "finwo@pm.me",
+      "contributions": 2
+    }
+  ]
 }

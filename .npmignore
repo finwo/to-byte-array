@@ -1,0 +1,6 @@
+.editorconfig
+.eslintcache
+.eslintrc.js
+.gitmodules
+lib/
+scripts/
