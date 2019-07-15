@@ -7,9 +7,16 @@
   },
   "version": "0.0.1",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "linter": "scripts/linter.sh",
+    "prepublishOnly": "scripts/prepublishOnly.sh",
+    "postpublish": "scripts/postpublish.sh",
+    "test": "echo \"Error: no test specified\""
   },
   "author": "",
   "license": "MIT",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "eslint": "^6.0.1",
+    "eslint-plugin-json": "^1.4.0"
+  }
 }
