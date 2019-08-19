@@ -21,7 +21,7 @@
   },
   "homepage": "http://git.finwo.net/to-byte-array",
   "devDependencies": {
-    "eslint": "^6.0.1",
+    "eslint": "^6.2.0",
     "eslint-plugin-json": "^1.4.0"
   },
   "contributors": [
