@@ -15,6 +15,11 @@
   "author": "",
   "license": "MIT",
   "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git://git.finwo.net/to-byte-array"
+  },
+  "homepage": "http://git.finwo.net/to-byte-array",
   "devDependencies": {
     "eslint": "^6.0.1",
     "eslint-plugin-json": "^1.4.0"
