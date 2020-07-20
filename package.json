@@ -17,9 +17,9 @@
   "description": "",
   "repository": {
     "type": "git",
-    "url": "git://git.finwo.net/to-byte-array"
+    "url": "git://github.com/finwo/to-byte-array"
   },
-  "homepage": "http://git.finwo.net/to-byte-array",
+  "homepage": "http://github.com/finwo/to-byte-array",
   "devDependencies": {
     "eslint": "^6.2.0",
     "eslint-plugin-json": "^1.4.0"
