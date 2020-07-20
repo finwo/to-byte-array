@@ -5,7 +5,7 @@
     "base64url": "^3.0.1",
     "is-buffer": "^2.0.3"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "linter": "scripts/linter.sh",
     "prepublishOnly": "scripts/prepublishOnly.sh",
